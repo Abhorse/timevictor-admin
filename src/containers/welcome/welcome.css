@@ -1,0 +1,30 @@
+.Welcome {
+    text-align: center;
+    background-color: #282c34;
+    /* background-image: image('src/assets/images/tvLogoFinal.png'); */
+}
+
+.heading {
+    /* background-color: #282c34; */
+    font-size: 40px;
+    font-family: fantasy;
+    color: white;
+    margin-bottom: 100px;
+}
+
+.logo {
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.loginBtn {
+    margin-bottom: 30px;
+}
+
+.loginBtn1 {
+    text-align: right;
+    margin-bottom: 10px;
+    right: 10px;
+}
+
